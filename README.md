@@ -1,14 +1,14 @@
-# **PROJECT NAME**
+# Promogame
 
-![GitHub contributors](https://img.shields.io/github/contributors/**PROJECT LINK**?style=for-the-badge)
-![Packagist Downloads](https://img.shields.io/packagist/dm/**PROJECT LINK**?style=for-the-badge)
-![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/**PROJECT LINK**/php?label=PHP&logo=PHP&style=for-the-badge)
-![GitHub](https://img.shields.io/github/license/**PROJECT LINK**?style=for-the-badge)
-[![README Português](https://img.shields.io/badge/LANGUAGE-Português-blue?style=for-the-badge)](https://github.com/**PROJECT LINK**/blob/main/README.md)
+![GitHub contributors](https://img.shields.io/github/contributors/c0destep/promogame?style=for-the-badge)
+![Packagist Downloads](https://img.shields.io/packagist/dm/c0destep/promogame?style=for-the-badge)
+![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/c0destep/promogame/php?label=PHP&logo=PHP&style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/c0destep/promogame?style=for-the-badge)
+[![README Português](https://img.shields.io/badge/LANGUAGE-Português-blue?style=for-the-badge)](https://github.com/c0destep/promogame/blob/main/README.md)
 
 <!-- <img src="" alt=""> -->
 
-> **PROJECT DESCRIPTION**
+> Promogame
 
 ## 💻 Prerequisites
 
@@ -16,21 +16,21 @@ Before you begin, make sure you've met the following requirements:
 
 **PROJECT PREREQUISITES**
 
-## 🚀 Installing **PROJECT NAME**
+## 🚀 Installing Promogame
 
 **PROJECT INSTALL**
 
-## ☕ Using **PROJECT NAME**
+## ☕ Using Promogame
 
-To use **PROJECT NAME**, follow the example:
+To use Promogame, follow the example:
 
 ```
 **PROJECT NAME**
 ```
 
-## 📫 Contributing to **PROJECT NAME**
+## 📫 Contributing to Promogame
 
-To contribute to **PROJECT NAME**, follow these steps:
+To contribute to Promogame, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <nome_branch>`.
@@ -55,6 +55,14 @@ Thanks to the following people who contributed to this project:
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/72138403" width="100px;" alt="Photo Mateus Durães"/><br>
+        <sub>
+          <b>Mateus Durães</b>
+        </sub>
+      </a>
+    </td>
   </tr>
 </table>
 
@@ -66,4 +74,4 @@ Thanks to the following people who contributed to this project:
 
 This project is under license. See the [LICENSE](LICENSE.txt) file for details.
 
-[⬆ Back to the top](#**PROJECT NAME**)
+[⬆ Back to the top](#Promogame)
