@@ -1,8 +1,6 @@
 # Promogame
 
 ![GitHub contributors](https://img.shields.io/github/contributors/c0destep/promogame?style=for-the-badge)
-![Packagist Downloads](https://img.shields.io/packagist/dm/c0destep/promogame?style=for-the-badge)
-![Packagist PHP Version](https://img.shields.io/packagist/dependency-v/c0destep/promogame/php?label=PHP&logo=PHP&style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/c0destep/promogame?style=for-the-badge)
 [![README Português](https://img.shields.io/badge/LANGUAGE-Português-blue?style=for-the-badge)](https://github.com/c0destep/promogame/blob/main/README.md)
 
